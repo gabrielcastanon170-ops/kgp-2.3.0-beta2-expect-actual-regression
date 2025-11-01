@@ -1,3 +1,4 @@
+pugin
 # Reproduction of KGP 2.3.0-Beta2 regression
 
 1. `./gradlew library:compileKotlinLinuxX64 --rerun`
